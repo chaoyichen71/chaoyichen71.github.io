@@ -177,3 +177,7 @@ div.col-sm-3 div.profile-about {
   margin-left:150px;
   height:500px;
 }
+.table{
+  table-layout: auto;
+  width: 100%;
+}
