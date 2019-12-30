@@ -7,9 +7,9 @@ body { margin: 60px auto; width: 70%;
   color: #666;
 }
 hr {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  border: 0;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  border: 10;
   border-top: 1px solid #F7F1F1;
   border-bottom: 1px solid #fff;
 }
