@@ -1,4 +1,4 @@
-body {
+body { margin: 60px auto; width: 70%; 
   font-family: Palatino, Arial, sans-serif;
   background: url("/static/img/subtle_dots.png");
   line-height: 1.5em;
