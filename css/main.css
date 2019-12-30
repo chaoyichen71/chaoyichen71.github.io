@@ -167,3 +167,12 @@ div.col-sm-3 div.profile-about {
     margin-top: 30px;
   }
 }
+.blue{
+  float:left;
+  width:150px;
+  height:500px;
+}
+.red{
+  margin-left:150px;
+  height:500px;
+}
