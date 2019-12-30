@@ -54,14 +54,15 @@ a:hover {
   content: "»";
   margin-right: .5em;
 }
-.row {
-  display: flex;
+.blue{
+  float:left;
+  width:50px;
+  height:500px;
 }
-
-.column {
-  flex: 50%;
+.red{
+  margin-left:150px;
+  height:500px;
 }
-/* Content */
 div.content pre {
   background: #333333;
   padding: 10px;
