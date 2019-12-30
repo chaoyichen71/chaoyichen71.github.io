@@ -54,16 +54,12 @@ a:hover {
   content: "»";
   margin-right: .5em;
 }
-.column {
-  float: left;
-  width: 50%;
+.row {
+  display: flex;
 }
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+.column {
+  flex: 50%;
 }
 /* Content */
 div.content pre {
