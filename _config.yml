@@ -1,5 +1,10 @@
-name: Hank Quinlan, Horrible Cop
+name: Chaoyi Chen
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
 theme: jekyll-theme-minimal
+JB :
+  analytics :
+    provider : google 
+    google : 
+    tracking_id : 'UA-155181950-1'
